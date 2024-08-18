@@ -6,7 +6,7 @@
 1. 유저가 spring 서버에 회원가입을 진행.
 2. 사용자 정보를 mysql DB에 저장
 3. Return Result
-
+---
 
 
 ![image](https://github.com/user-attachments/assets/ac6061f2-02cb-4d08-bc95-7cc8d54e45cc)
