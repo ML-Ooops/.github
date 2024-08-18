@@ -3,10 +3,10 @@
 
 # scenario
 ![image](https://github.com/user-attachments/assets/113a34cb-2c78-47ed-8d36-efe5ec192fad)
-유저가 spring 서버에 회원가입을 진행.
-사용자 정보를 mysql DB에 저장
-Return Result
-![image](https://github.com/user-attachments/assets/ecf6be4b-fac3-4bb1-96f0-942524b5d786)
+1. 유저가 spring 서버에 회원가입을 진행.
+2. 사용자 정보를 mysql DB에 저장
+3. Return Result
+
 
 
 ![image](https://github.com/user-attachments/assets/ac6061f2-02cb-4d08-bc95-7cc8d54e45cc)
